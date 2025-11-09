@@ -1,5 +1,5 @@
 ﻿
-using static System.Runtime.InteropServices.JavaScript.JSType;
+
 
 namespace es7_10
 {
