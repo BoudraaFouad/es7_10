@@ -5,7 +5,7 @@ namespace es7_10
 {
     internal class Program
     {
-        //es7
+        //es7s
         static void Main(string[] args)
         {
             int[] v = { 3, 11, 9, 2, 14, 29, 18 };
